@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316581.1.png", 
+        "role": "All-rounder",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Left-arm orthodox",
+        "biddingPrice": "2,300,000"
+    },
+    {
+        "id": 2,
+        "name": "Steve Smith",
+        "country": "Australia",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/385700/385794.1.png",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm legbreak",
+        "biddingPrice": "2,100,000"
+    },
+    {
+        "id": 3,
+        "name": "Tamim Iqbal",
+        "country": "Bangladesh",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/385700/385792.1.png",
+        "role": "Batsman",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": "1,800,000"
+    },
+    {
+        "id": 4,
+        "name": "Joe Root",
+        "country": "England",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316639.1.png",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": "1,800,000"
+    },
+    {
+        "id": 5,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383228.1.png",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm legbreak",
+        "biddingPrice": "1,500,000"
+    },
+    {
+        "id": 6,
+        "name": "Virat Kohli",
+        "country": "India",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316605.3.png",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm medium",
+        "biddingPrice": "2,000,000"
+    },
+    {
+        "id": 7,
+        "name": "Mushfiqur Rahim",
+        "country": "Bangladesh",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/385700/385790.1.png",
+        "role": "Wicketkeeper",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": "1,700,000"
+    },
+    {
+        "id": 8,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383172.1.png",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": "1,900,000"
+    },
+    {
+        "id": 9,
+        "name": "Mustafizur Rahman",
+        "country": "Bangladesh",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319734.3.png",
+        "role": "Bowler",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Left-arm fast-medium",
+        "biddingPrice": "2,000,000"
+    },
+    {
+        "id": 10,
+        "name": "Kagiso Rabada",
+        "country": "South Africa",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320300/320376.1.png",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": "2,200,000"
+    },
+    {
+        "id": 11,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320400/320448.1.png",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": "1,700,000"
+    },
+    {
+        "id": 12,
+        "name": "Liton Das",
+        "country": "Bangladesh",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319727.1.png",
+        "role": "Wicketkeeper",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": "1,600,000"
+    }
+]
