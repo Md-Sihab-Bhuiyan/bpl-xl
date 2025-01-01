@@ -39,7 +39,7 @@ function App() {
             {/* Coin Button */}
             <button className="flex items-center bg-white-600 border-black px-4 py-2 rounded hover:bg-blue-500">
               <span>0 Coins</span>
-              <img src="/public/assets/icons8-coin-16.png" className="h-6 w-6 mr-2" />
+              <img src="/assets/icons8-coin-16.png" className="h-6 w-6 mr-2" />
             </button>
           </div>
         </nav>
