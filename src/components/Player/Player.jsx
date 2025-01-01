@@ -62,4 +62,3 @@ Player.propTypes = {
 }
 
 export default Player;
-
