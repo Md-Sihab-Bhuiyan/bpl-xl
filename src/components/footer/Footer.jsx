@@ -12,10 +12,10 @@ const Footer = () => {
                         <h6 className="footer-title">About Us</h6>
                         <p className="text-left">We are a passionate team <br />dedicated to providing the best <br /> services to our customers.</p>
                         <div className="flex gap-3">
-                            <a href="https://www.facebook.com/"><img src='/src/assets/5296499_fb_facebook_facebook logo_icon.png' alt="" /></a>
-                            <a href="https://x.com/"><img src="/src/assets/icons8-twitterx-24-blck.png" alt="" className="bg-white" /></a>
-                            <a href="https://www.youtube.com/"><img src="/src/assets/4375133_logo_youtube_icon.png" alt="" /></a>
-                            <a href="https://www.instagram.com/"><img src="/src/assets/1298747_instagram_brand_logo_social media_icon.png" alt="" /></a>
+                            <a href="https://www.facebook.com/"><img src='/assets/5296499_fb_facebook_facebook logo_icon.png' alt="" /></a>
+                            <a href="https://x.com/"><img src="/assets/icons8-twitterx-24-blck.png" alt="" className="bg-white" /></a>
+                            <a href="https://www.youtube.com/"><img src="/assets/4375133_logo_youtube_icon.png" alt="" /></a>
+                            <a href="https://www.instagram.com/"><img src="/assets/1298747_instagram_brand_logo_social media_icon.png" alt="" /></a>
                         </div>
                     </aside>
                     <nav className="flex-1">

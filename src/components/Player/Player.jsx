@@ -21,13 +21,13 @@ const Player = ({ player }) => {
 
                 <div className="card-body">
                     <div className='flex gap-3'>
-                        <img className='w-6 h-6' src="/src/assets/icons8-user-32.webp" alt="" />
+                        <img className='w-6 h-6' src="/assets/icons8-user-32.webp" alt="" />
 
                         <h2 className="card-title">{name}</h2>
                     </div>
 
                     <div className='flex gap-3'>
-                        <img className='w-5 h-4' src="/src/assets/flagIcon.jpg" alt="" />
+                        <img className='w-5 h-4' src="/assets/flagIcon.jpg" alt="" />
                         <h3 className='text-base'>{country}</h3>
                     </div>
 
