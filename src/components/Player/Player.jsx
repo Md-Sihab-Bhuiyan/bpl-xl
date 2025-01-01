@@ -38,7 +38,7 @@ const Player = ({ player }) => {
                     </div>
 
                     <div className='flex justify-between'>
-                        <h3 className='text-base '>{battingType}</h3>
+                        <h3 className='text-base'>{battingType}</h3>
                         <h3 className='text-base'>{bowlingType}</h3>
                     </div>
 
