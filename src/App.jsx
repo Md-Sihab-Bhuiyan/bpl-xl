@@ -8,8 +8,8 @@ function App() {
 
   return (
     <>
-
-      <div className='bg-white'>
+    
+      <div className='bg-white w-10/12' data-theme="light">
         <nav className="flex items-center justify-between bg-white text-gray-800 p-4">
           {/* Left Side: Logo */}
           <div className="flex items-center">
