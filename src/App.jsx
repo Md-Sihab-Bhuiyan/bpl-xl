@@ -37,8 +37,8 @@ function App() {
             </a>
 
             {/* Coin Button */}
-            <button className="flex items-center bg-white-600 border-black px-4 py-2 rounded hover:bg-blue-500">
-              <span>0 Coins</span>
+            <button className="flex items-center px-3 rounded hover:bg-blue-500">
+              <span className='text-base'>0 Coins</span>
               <img src="/assets/icons8-coin-16.png" className="h-6 w-6 mr-2" />
             </button>
           </div>
@@ -47,8 +47,8 @@ function App() {
         <div className='flex justify-between pt-5 px-5'>
           <p className='text-3xl'>Available Players </p>
           <div>
-            <button className='btn btn-warning'>Available</button>
-            <button className='btn'>Selected()</button>
+            <button className='btn hover:btn-warning'>Available</button>
+            <button className='btn hover:btn-warning'>Selected()</button>
           </div>
         </div>
         <Players></Players>

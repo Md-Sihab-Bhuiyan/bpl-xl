@@ -7,7 +7,7 @@ const Footer = () => {
                     <img src="/assets/logo-footer.png" alt="logo-footer" />
                 </div>
 
-                <div className="footer flex justify-between">
+                <div className="footer flex flex-col sm:flex-row justify-between">
                     <aside className="flex-1">
                         <h6 className="footer-title">About Us</h6>
                         <p className="text-left">We are a passionate team <br />dedicated to providing the best <br /> services to our customers.</p>
