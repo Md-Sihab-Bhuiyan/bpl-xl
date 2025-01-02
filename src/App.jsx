@@ -9,7 +9,7 @@ function App() {
   return (
     <>
     
-      <div className='bg-white w-10/12' data-theme="light">
+      <div className='bg-white px-5' data-theme="light">
         <nav className="flex items-center justify-between bg-white text-gray-800 p-4">
           {/* Left Side: Logo */}
           <div className="flex items-center">
